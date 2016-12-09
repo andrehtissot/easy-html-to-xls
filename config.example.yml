@@ -1,0 +1,4 @@
+application_route: "/"
+defaults:
+  layout_begin_path: "template.ini.php"
+  layout_end_path: "template.end.php"
